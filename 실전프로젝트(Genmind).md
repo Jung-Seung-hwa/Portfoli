@@ -37,9 +37,12 @@
 <img width="2842" height="1227" alt="image" src="https://github.com/user-attachments/assets/f3bdd3ea-91fd-4bd2-8d6d-e67268f83f9a" />
 
 # 7. WEB/앱 
-## A. 주요 기능(사용자) <img width="1280" height="634" alt="image" src="https://github.com/user-attachments/assets/d151fa68-a7b5-4014-8434-74ded1684b5c" />
-## B. 주요 기능(관리자) <img width="1336" height="634" alt="image" src="https://github.com/user-attachments/assets/80bc76a0-f221-49c7-8bad-07e293e50fa7" />
-## C. 주요 기능(관리자) <img width="1254" height="645" alt="image" src="https://github.com/user-attachments/assets/765e4bfe-7728-40d2-b684-6ee2fc1c04cc" />
+## A. 주요 기능(사용자) <img width="1248" height="588" alt="image" src="https://github.com/user-attachments/assets/c9ae0f41-cc86-478b-a579-664e98645c99" />
+
+## B. 주요 기능(관리자) <img width="1298" height="607" alt="image" src="https://github.com/user-attachments/assets/5e220fcf-a7f6-4d31-a937-e76398431dae" />
+
+## C. 주요 기능(관리자) <img width="1225" height="622" alt="image" src="https://github.com/user-attachments/assets/51a07adb-8458-446e-ade8-f549a576dc84" />
+
 
 # 8. 모델개발 트러블 슈팅
 
