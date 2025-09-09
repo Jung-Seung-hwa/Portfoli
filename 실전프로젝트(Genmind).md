@@ -43,7 +43,6 @@
 
 ## C. 주요 기능(관리자) <img width="1225" height="622" alt="image" src="https://github.com/user-attachments/assets/51a07adb-8458-446e-ade8-f549a576dc84" />
 
-
 # 8. 모델개발 트러블 슈팅
 
 ## 첫번째 시안
@@ -59,4 +58,5 @@
 https://github.com/user-attachments/assets/f5252f4e-6a0f-4dca-83bb-f854d4dff73a
 
 # 11. 참고문헌
-<img width="1321" height="675" alt="image" src="https://github.com/user-attachments/assets/04ff3133-b50c-43e4-a65c-b46428809406" />
+<img width="1295" height="625" alt="image" src="https://github.com/user-attachments/assets/4e76a772-ca54-4991-81f2-b9b86d2586dd" />
+
