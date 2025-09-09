@@ -31,6 +31,7 @@
 <img width="1258" height="821" alt="image" src="https://github.com/user-attachments/assets/890fe607-2f08-4a52-85c5-0903d44c5338" />
 
 # 5. 서비스 아키텍처
+<img width="1201" height="534" alt="image" src="https://github.com/user-attachments/assets/facf12d6-66b8-42fe-b66d-2ed95b33d2e1" />
 
 # 6. ER 다이어그램
 <img width="2842" height="1227" alt="image" src="https://github.com/user-attachments/assets/f3bdd3ea-91fd-4bd2-8d6d-e67268f83f9a" />
