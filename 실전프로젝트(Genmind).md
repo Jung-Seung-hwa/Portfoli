@@ -21,6 +21,7 @@
 - 사용자 질문 로그와 미응답 항목을 분석하여 HOT FAQ 자동 추천 및 지속적인 서비스 개선
 ##### 중소·중견기업 최적화
 - 저비용·간편 설치 구조로 기존 챗봇 솔루션의 복잡성과 비용 문제를 해결
+
 #### 개발내용
 <img width="1313" height="569" alt="image" src="https://github.com/user-attachments/assets/75eb1fea-64ec-4b3e-8af9-b23c7da7bd34" />
 
@@ -37,6 +38,7 @@
 <img width="2842" height="1227" alt="image" src="https://github.com/user-attachments/assets/f3bdd3ea-91fd-4bd2-8d6d-e67268f83f9a" />
 
 # 7. WEB/앱 
+
 ## A. 주요 기능(사용자) <img width="1248" height="588" alt="image" src="https://github.com/user-attachments/assets/c9ae0f41-cc86-478b-a579-664e98645c99" />
 
 ## B. 주요 기능(관리자) <img width="1298" height="607" alt="image" src="https://github.com/user-attachments/assets/5e220fcf-a7f6-4d31-a937-e76398431dae" />
