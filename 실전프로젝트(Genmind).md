@@ -23,16 +23,16 @@
 - 저비용·간편 설치 구조로 기존 챗봇 솔루션의 복잡성과 비용 문제를 해결
 
 #### 개발내용
-<img src="./images/dev_env.png" alt="개발환경" width="1000" />
+<img width="1313" height="569" alt="image" src="https://github.com/user-attachments/assets/75eb1fea-64ec-4b3e-8af9-b23c7da7bd34" />
 
 # 3. 개발환경
 <img width="1243" height="513" alt="image" src="https://github.com/user-attachments/assets/56c457a0-6468-49db-8ac6-566112370e8a" />
 
 # 4. 유스케이스
-<img src="./images/usecase.png" alt="유스케이스" width="1000" />
+<img width="1258" height="821" alt="image" src="https://github.com/user-attachments/assets/890fe607-2f08-4a52-85c5-0903d44c5338" />
 
 # 5. 서비스 아키텍처
-<img src="./images/architecture.png" alt="서비스 아키텍처" width="1000" />
+<img width="1201" height="534" alt="image" src="https://github.com/user-attachments/assets/facf12d6-66b8-42fe-b66d-2ed95b33d2e1" />
 
 # 6. ER 다이어그램
 <img width="2842" height="1227" alt="image" src="https://github.com/user-attachments/assets/f3bdd3ea-91fd-4bd2-8d6d-e67268f83f9a" />
