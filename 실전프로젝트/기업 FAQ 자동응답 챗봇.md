@@ -9,6 +9,7 @@
 - React Native(Expo) 기반 모바일 앱으로 질문 입력·HOT FAQ·To-Do List·실시간 응답 기능 제공
 - 관리자 웹 대시보드를 통해 비개발자도 엑셀/PDF 업로드, 질문 로그 확인, 미응답 질문 관리 가능
 - 기업 내부 커뮤니케이션 효율화, 신입사원 온보딩 자동화, 인건비 절감 등 실질적 효과 달성
+
 # 2. 주요 기능
 #### 개발목표
 ##### 문서 기반 RAG 챗봇 구현
@@ -23,46 +24,44 @@
 - 저비용·간편 설치 구조로 기존 챗봇 솔루션의 복잡성과 비용 문제를 해결
 
 ## 개발내용
-<img width="1378" height="587" alt="Image" src="https://github.com/user-attachments/assets/9b46ce3b-25f0-4a04-9d80-e0dc45e8b233" />
+<img width="1378" height="587" alt="Image" src="./img/개발내용.png" />
 
 # 3. 개발환경
-<img width="1243" height="513" alt="image" src="실전프로젝트/img/개발환경.png" />
+<img width="1243" height="513" alt="image" src="./img/개발환경.png" />
 
 # 4. 유스케이스
-<img width="1258" height="821" alt="image" src="실전프로젝트/img/유스케이스.png" />
+<img width="1258" height="821" alt="image" src="./img/유스케이스.png" />
 
 # 5. 서비스 아키텍처
-<img width="1201" height="534" alt="image" src="실전프로젝트/img/서비스 아키텍쳐.png" />
+<img width="1201" height="534" alt="image" src="./img/서비스%20아키텍쳐.png" />
 
 # 6. ER 다이어그램
-<img width="2842" height="1227" alt="image" src="실전프로젝트/img/ER 다이어그램.png" />
+<img width="2842" height="1227" alt="image" src="./img/ER%20다이어그램.png" />
 
 # 7. WEB/앱 
 
 ## A. 주요 기능(사용자) 
-<img width="1248" height="588" alt="image" src="실전프로젝트/img/주요기능(사용자).png"/>
+<img width="1248" height="588" alt="image" src="./img/주요기능(사용자).png"/>
 
 ## B. 주요 기능(관리자) 
-<img width="1298" height="607" alt="image" src="실전프로젝트/img/주요기능(관리자)_1.png"/>
+<img width="1298" height="607" alt="image" src="./img/주요기능(관리자)_1.png"/>
 
 ## C. 주요 기능(관리자) 
-<img width="1225" height="622" alt="image" src="실전프로젝트/img/주요기능(관리자)_2.png"/>
+<img width="1225" height="622" alt="image" src="./img/주요기능(관리자)_2.png"/>
 
 # 8. 모델개발 트러블 슈팅
 
 ## 첫번째 시안
-<img width="637" height="648" alt="image" src="실전프로젝트/img/트러블슈팅_1.png" />
+<img width="637" height="648" alt="image" src="./img/트러블슈팅_1.png" />
 
 ## 두번째 시안
-<img width="670" height="613" alt="image" src="실전프로젝트/img/트러블 슈팅_2.png" />
+<img width="670" height="613" alt="image" src="./img/트러블%20슈팅_2.png" />
 
 # 9. 팀원역활
-<img width="1285" height="560" alt="image" src="실전프로젝트/img/팀원소개.png" />
+<img width="1285" height="560" alt="image" src="./img/팀원소개.png" />
 
 # 10. 시연영상
 https://github.com/user-attachments/assets/f5252f4e-6a0f-4dca-83bb-f854d4dff73a
 
 # 11. 참고문헌
-<img width="1295" height="625" alt="image" src="실전프로젝트/img/참고문헌.png" />
-
-
+<img width="1295" height="625" alt="image" src="./img/참고문헌.png" />
