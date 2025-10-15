@@ -22,8 +22,8 @@
 ##### 중소·중견기업 최적화
 - 저비용·간편 설치 구조로 기존 챗봇 솔루션의 복잡성과 비용 문제를 해결
 
-#### 개발내용
-<img width="1313" height="569" alt="image" src="실전프로젝트/img/개발내용.png"/>
+## 개발내용
+<img width="1378" height="587" alt="Image" src="https://github.com/user-attachments/assets/9b46ce3b-25f0-4a04-9d80-e0dc45e8b233" />
 
 # 3. 개발환경
 <img width="1243" height="513" alt="image" src="실전프로젝트/img/개발환경.png" />
