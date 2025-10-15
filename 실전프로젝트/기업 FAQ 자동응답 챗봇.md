@@ -23,7 +23,7 @@
 - 저비용·간편 설치 구조로 기존 챗봇 솔루션의 복잡성과 비용 문제를 해결
 
 #### 개발내용
-(./실전프로젝트/img/개발내용.png)
+<img width="1313" height="569" alt="image" src="실전프로젝트/img/개발내용.png"/>
 
 # 3. 개발환경
 <img width="1243" height="513" alt="image" src="실전프로젝트/img/개발환경.png" />
@@ -39,11 +39,14 @@
 
 # 7. WEB/앱 
 
-## A. 주요 기능(사용자) <img width="1248" height="588" alt="image" src="실전프로젝트/img/주요기능(사용자).png" />
+## A. 주요 기능(사용자) 
+<img width="1248" height="588" alt="image" src="실전프로젝트/img/주요기능(사용자).png"/>
 
-## B. 주요 기능(관리자) <img width="1298" height="607" alt="image" src="실전프로젝트/img/주요기능(관리자)_1.png" />
+## B. 주요 기능(관리자) 
+<img width="1298" height="607" alt="image" src="실전프로젝트/img/주요기능(관리자)_1.png"/>
 
-## C. 주요 기능(관리자) <img width="1225" height="622" alt="image" src="실전프로젝트/img/주요기능(관리자)_2.png" />
+## C. 주요 기능(관리자) 
+<img width="1225" height="622" alt="image" src="실전프로젝트/img/주요기능(관리자)_2.png"/>
 
 # 8. 모델개발 트러블 슈팅
 
