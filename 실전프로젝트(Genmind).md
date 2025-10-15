@@ -23,7 +23,7 @@
 - 저비용·간편 설치 구조로 기존 챗봇 솔루션의 복잡성과 비용 문제를 해결
 
 #### 개발내용
-<img width="1313" height="569" alt="image" src="https://github.com/user-attachments/assets/75eb1fea-64ec-4b3e-8af9-b23c7da7bd34" />
+<img width="1313" height="569" alt="image" src="실전프로젝트/img/개발내용.png" />
 
 # 3. 개발환경
 <img width="1243" height="513" alt="image" src="https://github.com/user-attachments/assets/56c457a0-6468-49db-8ac6-566112370e8a" />
