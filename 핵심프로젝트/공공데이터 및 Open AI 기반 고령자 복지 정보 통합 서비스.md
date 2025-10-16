@@ -82,7 +82,11 @@
 ---
 
 ## 11. 시연영상
-https://github.com/user-attachments/assets/1cfda77c-8faa-4cb4-b9a7-9ef625f23242
+
+
+
+https://github.com/user-attachments/assets/5a13db55-06ef-471d-b8b6-c55a60d3dac2
+
 
 ---
 
