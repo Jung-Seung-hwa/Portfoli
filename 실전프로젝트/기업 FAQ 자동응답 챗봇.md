@@ -61,7 +61,7 @@
 <img width="1285" height="560" alt="image" src="./img/팀원소개.png" />
 
 # 10. 시연영상
-https://github.com/user-attachments/assets/f5252f4e-6a0f-4dca-83bb-f854d4dff73a
+https://github.com/user-attachments/assets/bd71b741-4126-497e-be8e-e281d5603671
 
 # 11. 참고문헌
 <img width="1295" height="625" alt="image" src="./img/참고문헌.png" />
