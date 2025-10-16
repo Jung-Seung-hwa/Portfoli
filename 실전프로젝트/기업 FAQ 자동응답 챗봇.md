@@ -1,6 +1,9 @@
 # 팀명 : Genmind
 실전프로젝트_Genmind_기업 FAQ 자동응답 챗봇 개발 기획서
 
+## 👥 팀명 : Genmind  
+## 📂 GitHub 소스코드 : [👉 프로젝트 코드 바로가기](https://github.com/oohhss8016/genmind.git)
+
 # 1. 프로젝트 개요
 ### 주제 : 중소·중견기업을 위한 문서 기반 자동응답 챗봇 서비스 (Genmind)
 - 기업 내부의 규정, 절차서, 매뉴얼(PDF·엑셀 등) 문서를 업로드하면, 이를 자동으로 요약·가공 후 RAG(Retrieval-Augmented Generation) 기반으로 정확하고 일관된 답변을 제공
